@@ -13,7 +13,6 @@ D:\Kriska\IndustryConnect\SourceCode\September2020\September2020\obj\Debug\netco
 D:\Kriska\IndustryConnect\SourceCode\September2020\September2020\obj\Debug\netcoreapp3.1\September2020.dll
 D:\Kriska\IndustryConnect\SourceCode\September2020\September2020\obj\Debug\netcoreapp3.1\September2020.pdb
 D:\Kriska\IndustryConnect\SourceCode\September2020\September2020\obj\Debug\netcoreapp3.1\September2020.genruntimeconfig.cache
-D:\Kriska\IndustryConnect\SourceCode\September2020\September2020\obj\Debug\netcoreapp3.1\September2020.csprojAssemblyReference.cache
 D:\Kriska\IndustryConnect\SourceCode\September2020\September2020\bin\Debug\netcoreapp3.1\nunit.framework.dll
 D:\Kriska\IndustryConnect\SourceCode\September2020\September2020\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
 D:\Kriska\IndustryConnect\SourceCode\September2020\September2020\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
@@ -25,3 +24,4 @@ D:\Kriska\IndustryConnect\SourceCode\September2020\September2020\bin\Debug\netco
 D:\Kriska\IndustryConnect\SourceCode\September2020\September2020\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
 D:\Kriska\IndustryConnect\SourceCode\September2020\September2020\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
 D:\Kriska\IndustryConnect\SourceCode\September2020\September2020\obj\Debug\netcoreapp3.1\September2020.csproj.CoreCompileInputs.cache
+D:\Kriska\IndustryConnect\SourceCode\September2020\September2020\obj\Debug\netcoreapp3.1\September2020.csprojAssemblyReference.cache

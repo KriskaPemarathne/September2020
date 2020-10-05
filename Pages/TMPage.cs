@@ -8,6 +8,8 @@ namespace September2020
     {
         public void CreateTM(IWebDriver driver)
         {
+
+            driver.FindElement(By.XPath("/html/body/div[3]/div/div/ul/li[5]")).Click();
             driver.FindElement(By.XPath("//*[@id='tmsGrid']/div[4]/a[4]")).Click();
             IWebElement btnCreateNew = driver.FindElement(By.XPath("//*[@id='container']/p/a"));
             btnCreateNew.Click();

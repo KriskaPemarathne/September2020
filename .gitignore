@@ -4,3 +4,13 @@ obj/Debug/netcoreapp3.1/September2020.csprojAssemblyReference.cache
 bin/Debug/netcoreapp3.1/September2020.pdb
 bin/Debug/netcoreapp3.1/September2020.dll
 .vs/September2020/v16/.suo
+.vs/September2020/v16/.suo
+.vs/September2020/v16/TestStore/0/000.testlog
+.vs/September2020/v16/TestStore/0/testlog.manifest
+bin/Debug/netcoreapp3.1/September2020.dll
+bin/Debug/netcoreapp3.1/September2020.pdb
+obj/Debug/netcoreapp3.1/September2020.csproj.CoreCompileInputs.cache
+*.txt
+*.cache
+*.dll
+*.pdb
